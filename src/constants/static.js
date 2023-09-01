@@ -1,7 +1,7 @@
  export const clients =[
     {
       title: "Global Technology",
-      description: "IBM's cutting-edge technologies and image expertise have helped countless businesses stay ahead of the curve in today's digital world.",
+      description: "IBMs cutting-edge technologies and image expertise have helped countless businesses stay ahead of the curve in todays digital world.",
       image: "/asset 3.webp"
     },
     {
@@ -16,7 +16,7 @@
     },
     {
       title: "Energy Producer",
-      description: "One of the world's largest integrated energy and chemicals companies, creating value across the hydrocarbon chain, and delivering energy to people and communities globally.",
+      description: "One of the worlds largest integrated energy and chemicals companies, creating value across the hydrocarbon chain, and delivering energy to people and communities globally.",
       image: "/asset 6.webp"
     },
     {
@@ -26,7 +26,7 @@
     },
     {
       title: "The Learning Platform",
-      description: "BYJU'S is India's largest ed-tech company, offering a school learning app with top teachers and experts, facilitating ongoing classes and doubt clearing.",
+      description: "BYJUS is Indias largest ed-tech company, offering a school learning app with top teachers and experts, facilitating ongoing classes and doubt clearing.",
       image: "/asset 8.webp"
     },
     {
@@ -106,7 +106,7 @@ export const caseStudies = [
     heading:"Smart Education",
     sub:"Elevate your Education Institution",
     tags:["Fraud detection", "Transaction categorisation", "Risk Scoring"],
-    description:"Elevate your education institution with our comprehensive software solutions. Learning management, course offerings, professional training, certification, and school management tools to streamline your operations and enhance your students' learning experience. Trust us to provide the cutting-edge technology and support you need to thrive in the ever-evolving education industry.",
+    description:"Elevate your education institution with our comprehensive software solutions. Learning management, course offerings, professional training, certification, and school management tools to streamline your operations and enhance your students learning experience. Trust us to provide the cutting-edge technology and support you need to thrive in the ever-evolving education industry.",
     image:"/asset 2.webp",
     bg:"#2e3038",
     reverse:""

@@ -8,7 +8,7 @@ const Footer = () => {
           Get to know us better!
         </h2>
         <p className='text-center text-[#f4f4f4]'>
-          It is a pleasure to have you on our website. Let us know if there's
+          It is a pleasure to have you on our website. Let us know if there
           an opportunity to do something together.
         </p>
       </div>

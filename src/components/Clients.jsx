@@ -12,7 +12,7 @@ const Clients = () => {
         </h2>
         <p className='text-center text-[#f4f4f4]'>
           We worked with the Fortune 500 companies in the USA, Africa, UK,
-          Middle East. World&apos;s 4th Strongest Banking Brand, Automobile & IoT
+          Middle East. World 4th Strongest Banking Brand, Automobile & IoT
           industry
         </p>
       </div>

@@ -11,7 +11,7 @@ const CaseStudyCard = ({ heading, sub, tags, description, image,bg,reverse }) =>
     <div style={{
         backgroundColor: `${bg}`,
         minHeight:"130vh",
-        flexDirection:"col"+reverse
+      
        
       }} className={reverseClass}>
         <div className="w-full my-auto">
