@@ -1,3 +1,4 @@
+"use client"
 import React from 'react';
 import ClientCard from './ClientCard';
 import { clients } from '@/constants/static';
