@@ -2,62 +2,62 @@
     {
       title: "Global Technology",
       description: "IBMs cutting-edge technologies and image expertise have helped countless businesses stay ahead of the curve in todays digital world.",
-      image: "/asset 3.webp"
+      image: "/asset 3.png"
     },
     {
       title: "4th Strongest Bank",
       description: "Equity bank has been awarded 4th strongest Bank in the world in 2023. Offering various banking services over Africa region, empowering better livelihoods.",
-      image: "/asset 4.webp"
+      image: "/asset 4.png"
     },
     {
       title: "Intelligence on Wheel",
       description: "Audi, a luxury car manufacturer, is renowned for its sophisticated engineering, innovative designs, and exceptional performance by leveraging the latest technology.",
-      image: "/asset 5.webp"
+      image: "/asset 5.png"
     },
     {
       title: "Energy Producer",
       description: "One of the worlds largest integrated energy and chemicals companies, creating value across the hydrocarbon chain, and delivering energy to people and communities globally.",
-      image: "/asset 6.webp"
+      image: "/asset 6.png"
     },
     {
       title: "Cloud-Native Insurance",
       description: "Insurity provides cloud-based software for insurance carriers, brokers, and MGAs. Trusted by top P&C carriers and MGAs, serving over 500 insurers.",
-      image: "/asset 7.webp"
+      image: "/asset 7.png"
     },
     {
       title: "The Learning Platform",
       description: "BYJUS is Indias largest ed-tech company, offering a school learning app with top teachers and experts, facilitating ongoing classes and doubt clearing.",
-      image: "/asset 8.webp"
+      image: "/asset 8.png"
     },
     {
       title: "Open Source Giant",
       description: "The Linux Foundation supports the development of open source technologies like Linux, NodeJs, Kubernetes, GraphQL, OpenAPI, and more.",
-      image: "/asset 9.webp"
+      image: "/asset 9.png"
     },
     {
       title: "Fitness Platform",
       description: "iFit is a workout app with on-demand classes for various fitness levels. Accessible via exercise machines or smartphones, enabling workouts anywhere.",
-      image: "/asset 10.webp"
+      image: "/asset 10.png"
     },
     {
       title: "Smooth Invoicing",
       description: "Payyit is a cutting-edge SAAS platform revolutionizing invoicing, bookkeeping, payment processing, virtual bank account, and debit card management for businesses.",
-      image: "/asset 11.webp"
+      image: "/asset 11.png"
     },
     {
       title: "Crypto Bank",
       description: "The Baanx Platform provides an API-driven solution bridging fiat and digital asset technology, offering Payments, Digital Assets, and Loans.",
-      image: "/asset 12.webp"
+      image: "/asset 12.png"
     },
     {
       title: "Mobility Solution",
       description: "Inchcape, a global automotive distributor, operates in 40+ markets with a portfolio of leading automotive brands, providing mobility solutions.",
-      image: "/asset 13.webp"
+      image: "/asset 13.png"
     },
     {
       title: "Global Procurement",
       description: "Penny is a cloud-based Source-To-Pay system digitizing and managing the full procurement cycle from requests to payments, vendor management, and more.",
-      image: "/asset 14.webp"
+      image: "/asset 14.png"
     }
   ]
   
@@ -98,7 +98,7 @@ export const caseStudies = [
     sub:"Providing a better connected experience",
     tags:["Fraud detection", "Transaction categorisation", "Risk Scoring"],
     description:"Revolutionize your industry with our innovative IoT solutions. Our software development services offer connected manufacturing, pollution control, smart transportation, and intelligent farming, agriculture, and forestry. With our expertise, you can harness the power of technology to increase efficiency, reduce waste, and optimize operations for a sustainable future.",
-    image:"/asset 1.webp",
+    image:"/asset 1.png",
     bg:"#02b5ac",
    reverse:"reverse"
   },
@@ -107,7 +107,7 @@ export const caseStudies = [
     sub:"Elevate your Education Institution",
     tags:["Fraud detection", "Transaction categorisation", "Risk Scoring"],
     description:"Elevate your education institution with our comprehensive software solutions. Learning management, course offerings, professional training, certification, and school management tools to streamline your operations and enhance your students learning experience. Trust us to provide the cutting-edge technology and support you need to thrive in the ever-evolving education industry.",
-    image:"/asset 2.webp",
+    image:"/asset 2.png",
     bg:"#2e3038",
     reverse:""
     
